@@ -54,7 +54,7 @@ header, nav-bar {
     font-weight: 600;
 }
 
-.nav-bar .logo {
+.nav-bar {
     color: #fff;
     font-size: 1.8em;
     font-weight: 600;
@@ -133,4 +133,14 @@ section {
 
 .nav-close-btn, nav-menu-btn {
     display: none;
+}
+
+.logo {
+    color: #fff;
+    font-size: 1.8em;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0 0px;
 }
