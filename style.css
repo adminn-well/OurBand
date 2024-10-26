@@ -144,3 +144,9 @@ section {
     text-decoration: none;
     padding: 0 0px;
 }
+
+img {
+    height: 30px;
+    width: 30px;
+    position: static;
+}
